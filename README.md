@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @misriyasuperio
-- 👀 I’m QA
+- 👀 I’m a QA 
 - 🌱 I’m currently learning new technologies for assuring the quality of a software
 
 <!---
